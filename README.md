@@ -96,7 +96,7 @@ npm run preview
 
 ## 🌐 Live Demo
 
-**Vercel:** https://your-vercel-link.vercel.app
+  **Vercel:** https://movie-recommender-sigma-woad.vercel.app/
 
 ## 📌 API
 
